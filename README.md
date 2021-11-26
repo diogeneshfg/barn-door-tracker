@@ -27,3 +27,10 @@ STEPS_DEGREES - degrees;
 MICRO_STEPS_PER_STEPS;
 
 THREAD_ROD_PITCH - milimeters;
+
+## Main Eletronic Parts:
+
+Arduino Uno\
+Stepper Motor Nema 17\
+Stepper Motor Driver A4988
+
