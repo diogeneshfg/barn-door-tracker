@@ -11,7 +11,7 @@ https://www.nutsvolts.com/magazine/article/january2015_Wierenga
 
 The main libraries were uploaded to maintain compatibility.
 
-This is a simple code I'm not responsable por it's use or anything tha happens with your equipment.
+This is a simple code I'm not responsable for it's use or anything tha happens with your equipment.
 
 ## Usage:
 Basically just the follwing parameters need to be changed:
